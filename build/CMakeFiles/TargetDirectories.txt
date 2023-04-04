@@ -1,0 +1,3 @@
+G:/_Curs_c++/_GitHub/GenerateIBAN/build/CMakeFiles/GenIBAN.dir
+G:/_Curs_c++/_GitHub/GenerateIBAN/build/CMakeFiles/edit_cache.dir
+G:/_Curs_c++/_GitHub/GenerateIBAN/build/CMakeFiles/rebuild_cache.dir

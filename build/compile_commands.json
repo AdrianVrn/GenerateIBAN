@@ -1,0 +1,12 @@
+[
+{
+  "directory": "G:/_Curs_c++/_GitHub/GenerateIBAN/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IG:/_Curs_c++/_GitHub/GenerateIBAN/include -g -std=gnu++17 -o CMakeFiles\\GenIBAN.dir\\src\\genIBAN.cpp.obj -c G:\\_Curs_c++\\_GitHub\\GenerateIBAN\\src\\genIBAN.cpp",
+  "file": "G:\\_Curs_c++\\_GitHub\\GenerateIBAN\\src\\genIBAN.cpp"
+},
+{
+  "directory": "G:/_Curs_c++/_GitHub/GenerateIBAN/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IG:/_Curs_c++/_GitHub/GenerateIBAN/include -g -std=gnu++17 -o CMakeFiles\\GenIBAN.dir\\src\\main.cpp.obj -c G:\\_Curs_c++\\_GitHub\\GenerateIBAN\\src\\main.cpp",
+  "file": "G:\\_Curs_c++\\_GitHub\\GenerateIBAN\\src\\main.cpp"
+}
+]

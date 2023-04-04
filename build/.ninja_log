@@ -1,0 +1,9 @@
+# ninja log v5
+15	631	7022902795854381	CMakeFiles/GenIBAN.dir/src/main.cpp.obj	8d81940b783fbcac
+7	645	7022902795854381	CMakeFiles/GenIBAN.dir/src/genIBAN.cpp.obj	6aaefdf7da8a9370
+645	897	7022902798479832	GenIBAN.exe	357ab7cb8525dc1e
+15	28	0	clean	9c4b4372737ab8da
+19	360	7022903029461582	CMakeFiles/GenIBAN.dir/src/genIBAN.cpp.obj	6aaefdf7da8a9370
+25	430	7022903030174067	CMakeFiles/GenIBAN.dir/src/main.cpp.obj	8d81940b783fbcac
+430	671	7022903032543984	GenIBAN.exe	357ab7cb8525dc1e
+7	19	0	clean	9c4b4372737ab8da
